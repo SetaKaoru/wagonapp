@@ -92,6 +92,7 @@ body {
   text-align: center;
   letter-spacing: 3px;
   font-weight: 500;
+  display: inline-table;
 }
 
 .menu > p {
@@ -109,9 +110,9 @@ body {
 }
 
 .pizza {
-  display: flex;
+  text-align: center;
   gap: 3.2rem;
-  text-align:left;
+  border-bottom: 0.3rem solid cornflowerblue;
 
 }
 

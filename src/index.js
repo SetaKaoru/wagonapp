@@ -55,20 +55,31 @@ function Menu() {
             desc='A unique colour of carriage!'
             price={25}/>
             <Pizza
-            name='Chocolate Tanker'
-            image='choco.jpg'
-            desc='Limited edition with banners!'
-            price={10}/>
-            <Pizza
             name='Brown Wagon'
             image='tt03.webp'
             desc='Comes with removable barrels!'
             price={15}/>
             <Pizza
+            name='Chocolate Tanker'
+            image='choco.jpg'
+            desc='Limited edition with banners!'
+            price={10}/>
+            <Pizza
             name='Blue Wagon'
             image='tt02.webp'
             desc='Comes with removable stone pile!'
             price={15}/>
+            <Pizza
+            name='Container on Conflat'
+            image='0307.webp'
+            desc='Comes with removable containers!'
+            price={25}/>
+            <Pizza
+            name='Green Wagon'
+            image='tt01.webp'
+            desc='Comes with removable crates!'
+            price={15}/>
+            MORE COMING SOON!
         </h2>
     </div>
     );
